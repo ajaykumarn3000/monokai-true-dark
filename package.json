@@ -3,7 +3,7 @@
   "icon": "icon.png",
   "displayName": "Monokai True Dark",
   "description": "A Monokai color scheme for VSCode with true dark background",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.50.0"
   },
