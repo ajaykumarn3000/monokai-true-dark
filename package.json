@@ -1,0 +1,49 @@
+{
+  "name": "monokai-true-dark",
+  "icon": "icon.png",
+  "displayName": "Monokai True Dark",
+  "description": "\"A Monokai color scheme for VSCode with true dark background\"",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai True Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai True Dark-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "publisher": "ajaykumarn3000",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajaykumarn3000/monokai-true-dark"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "monokai",
+    "dark theme",
+    "dark",
+    "black",
+    "google colors",
+    "blue",
+    "vibrant",
+    "colorful",
+    "modern",
+    "theme",
+    "nodejs theme",
+    "vscode theme"
+  ],
+  "author": {
+    "name": "Ajaykumar Nadar",
+    "email": "ajaykumarn3000@gmail.com",
+    "url": "https://ajaykumarn3000.in/"
+  }
+}
